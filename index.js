@@ -3,5 +3,5 @@ function loadText() {
 pText.innerHTML = "This is really cool!";
 }
 
-document.addEventListener("DOMContentLoaded", pText );
+document.addEventListener("DOMContentLoaded", pText);
 
