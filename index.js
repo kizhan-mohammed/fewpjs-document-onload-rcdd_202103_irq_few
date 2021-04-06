@@ -5,4 +5,3 @@ pText.textContent = "This is really cool!";
 
 document.addEventListener("DOMContentLoaded", loadText);
 
-ge
