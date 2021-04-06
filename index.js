@@ -1,6 +1,7 @@
-document.addEventListener("DOMContentLoaded", function() {
- const pText = document.getElementbyId("text");
+const pText = document.getElementbyId("text");
+function loadText() {
 pText.innerHTML = "This is really cool!";
+}
 
-});
+document.addEventListener("DOMContentLoaded", pText );
 
